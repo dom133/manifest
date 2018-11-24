@@ -110,7 +110,7 @@
 
 <!-- System -->
   <project path="system/bt" name="system_bt" />
-  <project path="system/core" name="system_core" groups="pdk" />
+  <project path="system/core" name="system_core" groups="pdk" revision="a9-caf-og"/>
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" />
   <project path="system/qcom" name="system_qcom" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" />
