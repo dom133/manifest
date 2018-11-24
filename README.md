@@ -97,7 +97,7 @@ cd ~/aquarios
 
 9) Now you're going to initialize the repo:
 ```bash
-repo init -u https://github.com/AquariOS/manifest -b a9-caf
+repo init -u https://github.com/dom133/manifest -b a9-caf
 ```
 
 <br />
